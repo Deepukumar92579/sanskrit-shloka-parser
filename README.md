@@ -1,0 +1,1 @@
+# sanskrit-shloka-parser
